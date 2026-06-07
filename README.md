@@ -14,9 +14,27 @@
 
 🤝 &nbsp; I'm looking to collaborate on **open source projects, creative web apps & fun side projects**
 
+🌱 &nbsp; I'm currently learning **TypeScript, Docker & Cloud (AWS / GCP)**
+
 💬 &nbsp; Ask me about **Web Dev, UI/UX, debugging nightmares & chai ☕**
 
 ⚡ &nbsp; Fun fact — **I can spend 3 hours fixing a bug caused by a missing semicolon… and feel proud about it 😂**
+
+---
+
+## 🏅 Badges
+
+<div align="center">
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Developer](https://img.shields.io/badge/Developer-Mukesh-00FF88?style=for-the-badge&logo=github&logoColor=white)
+![Self Taught](https://img.shields.io/badge/Self--Taught-Developer-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&logo=bookstack&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem-Solver-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
 
 ---
 
@@ -29,7 +47,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![OOPs](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge&logo=buffer&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge&logo=buffer&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00FF88?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
@@ -76,8 +94,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukeshsuthar01)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshsuthar3669@gmail.com)
+[![Location](https://img.shields.io/badge/📍%20Ahmedabad-India-00FF88?style=for-the-badge)](https://maps.google.com/?q=Ahmedabad)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeWithMukesh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithMukesh01)
 
 </div>
 
