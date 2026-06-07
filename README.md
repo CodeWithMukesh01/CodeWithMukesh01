@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge&logo=buffer&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOP-Concepts-blueviolet?style=for-the-badge&logo=buffer&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00FF88?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
