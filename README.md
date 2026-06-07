@@ -27,12 +27,10 @@
 <div align="center">
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developer-Mukesh-00FF88?style=for-the-badge&logo=github&logoColor=white)
 ![Self Taught](https://img.shields.io/badge/Self--Taught-Developer-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 ![Always Learning](https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem-Solver-blue?style=for-the-badge&logo=leetcode&logoColor=white)
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
 
