@@ -14,8 +14,6 @@
 
 🤝 &nbsp; I'm looking to collaborate on **open source projects, creative web apps & fun side projects**
 
-🌱 &nbsp; I'm currently learning **TypeScript, Docker & Cloud (AWS / GCP)**
-
 💬 &nbsp; Ask me about **Web Dev, UI/UX, debugging nightmares & chai ☕**
 
 ⚡ &nbsp; Fun fact — **I can spend 3 hours fixing a bug caused by a missing semicolon… and feel proud about it 😂**
